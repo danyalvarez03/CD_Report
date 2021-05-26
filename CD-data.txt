@@ -1,0 +1,6 @@
+5000 5 8.25 quarterly
+12000 10 10.80 daily
+2000 5 7.30 monthly
+10000 3 5.55 daily
+2000 1 4.50 quarterly
+5000 10 9.15 monthly
